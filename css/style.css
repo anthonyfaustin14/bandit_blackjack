@@ -1,8 +1,8 @@
 /* Broad site-wide styles */
 body {
 	font-family: "VT323", monospace;
-	background: #0054A2;
-	background: linear-gradient(to top right, #0054A2, #0F2725) fixed;
+	background-image: A85DBA;
+	background: linear-gradient(to top right, #A85DBA, #0F2725) fixed;
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 	color: white;
@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, .brand-logo {
 
 h1 {
 
-	
+	font-family: "VT323", monospace;
 	font-size: 4em;
 }
 
@@ -346,6 +346,7 @@ table {
 	.wager-gameplay span {
 		font-size: .75em;
 		display: inline-block;
+		font-family: "VT323", monospace;
 		margin-left: 20px;
 		position: relative;
 		bottom: 10px;
